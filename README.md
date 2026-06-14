@@ -1,4 +1,4 @@
-# 📩 Machine Learning Based SMS Spam & Ham Detection System
+# 📩 Machine Learning Based Spam & Ham Detection
 
 An end-to-end Machine Learning and Natural Language Processing (NLP) project that automatically classifies SMS messages as **Spam** or **Ham (Legitimate Message)** using Logistic Regression and TF-IDF Vectorization.
 
